@@ -1,5 +1,0 @@
-method,baseline,n,ce_wins,acc_wins,mean_ce_delta,mean_acc_delta
-gqa,mha,1,0,0,0.013896942138671875,0.0
-gqa,gqa,1,0,0,0.0,0.0
-gqa_lfom,mha,1,1,0,-0.005458831787109375,0.0
-gqa_lfom,gqa,1,1,0,-0.01935577392578125,0.0
