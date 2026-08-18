@@ -1,7 +1,5 @@
 # LFOM-GQA/MQA cache frontier
 
-This repository contains the two-column draft and the experiments for the current LFOM-GQA/MQA cache-quality claim.
-
 Main candidate claim:
 
 > Use fewer K/V heads, but give the compressed state first-order memory.
